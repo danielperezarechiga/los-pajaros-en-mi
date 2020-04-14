@@ -268,7 +268,3 @@ s.meter;
 s.makeWindow;
 s.plotTree;
 s.freeAll;
-
-$ cat .gitattributes
-*.rb linguist-language=SuperCollider
-
